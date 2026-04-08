@@ -12,3 +12,6 @@ package.tar
 .env.local.php
 .env.*.local
 /config/secrets/prod/prod.decrypt.private.php
+.env
+.env.dev
+.env.test
